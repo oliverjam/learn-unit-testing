@@ -51,7 +51,9 @@ const y = { name: "oliver" };
 console.log(x === y); // false (x and y are different objects with the same properties)
 ```
 
-We can work around this by testing if specific _properties_ of the objects are the same.
+We can work around this by testing if specific _properties_ of objects are the same. We can do the same for array _elements_ (e.g. checking that the first thing in both arrays is the same).
+
+Bear in mind this doesn't guarantee that _all_ the things inside are the same, just the ones you check.
 
 ### Challenge
 
