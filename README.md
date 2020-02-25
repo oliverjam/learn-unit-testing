@@ -11,7 +11,7 @@ For example this is not pure:
 ```js
 let url = "https://pokeapi.co/api/v2/";
 function makeUrl(name) {
-  url + name;
+  url += name;
 }
 ```
 
