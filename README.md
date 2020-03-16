@@ -71,7 +71,7 @@ This is where manual testing would be very tedious: manually entering `0`, then 
 
 ### Challenge
 
-A [leap year](https://en.wikipedia.org/wiki/Leap_year) has an extra day (February 29th) to account for a solar year actually being 365.24... days long. They usually occur every 4 years, but in order to stay consistent there are extra rules: years divisible by 100 are **not** leap years, and years divisble by 400 **are**.
+A [leap year](https://en.wikipedia.org/wiki/Leap_year) has an extra day (February 29th) to account for a solar year actually being 365.24... days long. They usually occur every 4 years, but in order to stay consistent there are extra rules: years divisible by 100 are **not** leap years, and years divisible by 400 **are**.
 
 For example `2020` and `2000` were leap years, but `1900` was not.
 
