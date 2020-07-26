@@ -55,7 +55,7 @@ We can work around this by testing if specific _properties_ of objects are the s
 
 Bear in mind this doesn't guarantee that _all_ the things inside are the same, just the ones you check.
 
-### Challenge
+### 1 Challenge
 
 1. Open `workshop/index.js` in your editor
 1. Write a `searchParamsToObject` function
@@ -69,7 +69,7 @@ Unit tests are great for checking edge-cases. Since a unit is usually small and 
 
 This is where manual testing would be very tedious: manually entering `0`, then `-1`, then `""`, then `"hello"`, then `99999999999999999` into an input to see what happens.
 
-### Challenge
+### 2 Challenge
 
 A [leap year](https://en.wikipedia.org/wiki/Leap_year) has an extra day (February 29th) to account for a solar year actually being 365.24... days long. They usually occur every 4 years, but in order to stay consistent there are extra rules: years divisible by 100 are **not** leap years, and years divisible by 400 **are**.
 
